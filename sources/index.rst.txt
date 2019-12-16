@@ -12,6 +12,7 @@ Welcome to yoda's documentation!
 
    example1
    example2
+   example3
 
 
 
